@@ -1,0 +1,15 @@
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\bin\Debug\net6.0\Homework-3-Classes.exe
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\bin\Debug\net6.0\Homework-3-Classes.deps.json
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\bin\Debug\net6.0\Homework-3-Classes.runtimeconfig.json
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\bin\Debug\net6.0\Homework-3-Classes.dll
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\bin\Debug\net6.0\Homework-3-Classes.pdb
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\obj\Debug\net6.0\Homework-3-Classes.csproj.AssemblyReference.cache
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\obj\Debug\net6.0\Homework-3-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\obj\Debug\net6.0\Homework-3-Classes.AssemblyInfoInputs.cache
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\obj\Debug\net6.0\Homework-3-Classes.AssemblyInfo.cs
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\obj\Debug\net6.0\Homework-3-Classes.csproj.CoreCompileInputs.cache
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\obj\Debug\net6.0\Homework-3-Classes.dll
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\obj\Debug\net6.0\refint\Homework-3-Classes.dll
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\obj\Debug\net6.0\Homework-3-Classes.pdb
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\obj\Debug\net6.0\Homework-3-Classes.genruntimeconfig.cache
+C:\Users\sciubotariu\source\repos\Homework-3-Classes\Homework-3-Classes\obj\Debug\net6.0\ref\Homework-3-Classes.dll
